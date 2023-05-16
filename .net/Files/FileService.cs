@@ -5,15 +5,15 @@ using Amazon.S3.Transfer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Options;
 using Microsoft.VisualBasic.FileIO;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.AppSettings;
-using Sabio.Models.Domain;
-using Sabio.Models.Domain.Files;
-using Sabio.Models.Enums;
-using Sabio.Models.Requests.Files;
-using Sabio.Services.Interfaces;
+using AssignRef.Data;
+using AssignRef.Data.Providers;
+using AssignRef.Models;
+using AssignRef.Models.AppSettings;
+using AssignRef.Models.Domain;
+using AssignRef.Models.Domain.Files;
+using AssignRef.Models.Enums;
+using AssignRef.Models.Requests.Files;
+using AssignRef.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -22,7 +22,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services
+namespace AssignRef.Services
 {
     public class FileService : IFileService
     {

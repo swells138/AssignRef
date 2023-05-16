@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Sabio.Models;
-using Sabio.Models.Domain.Files;
-using Sabio.Models.Requests.Files;
+using AssignRef.Models;
+using AssignRef.Models.Domain.Files;
+using AssignRef.Models.Requests.Files;
 using System.Collections.Generic;
 using System.Data;
 using System.Threading.Tasks;
 
-namespace Sabio.Services.Interfaces
+namespace AssignRef.Services.Interfaces
 {
     public interface IFileService
     {
