@@ -10,3 +10,8 @@ S3.
 using various APIs, such as Fetch API.
 - Effectively managed Git branches by creating and merging feature branches, resolving conflicts,
 and ensuring the stability of the main branch using pull requests and code reviews.
+- Maintained workflow using GitBash and GitHub for repo management.
+- Effectively managed Git branches by creating and merging feature branches, resolving conflicts, and ensuring the stability of the main branch using pull requests and code reviews.
+- Constructed RESTful API Controllers in C# using Microsoft's ADO.NET framework to enable efficient data transfer between servers and end-users.
+- Focused on best practices using proper naming convention and casing to avoid compiler issues with team member’s code.
+- Participated in daily stand-ups, code review, and code talks with team members to ensure cohesive implementation of code.
