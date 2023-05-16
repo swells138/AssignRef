@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Domain.Files
+namespace AssignRef.Models.Domain.Files
 {
     public class BaseFile
     {
